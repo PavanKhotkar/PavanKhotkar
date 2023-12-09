@@ -2,7 +2,7 @@
   <div align="center">
 <div style="background-color: black; color: white; padding: 20px;">
   <div align="center">
-    <img width="700" height="330" src="https://www.chalmers.se/_next/image/?url=https%3A%2F%2Fcms.www.chalmers.se%2FMedia%2Fmb3hi4kn%2Fcoding-7-1920.jpg%3Fwidth%3D1920%26height%3D1080%26rnd%3D133293116108230000%26quality%3D60%26format%3Dwebp&w=1920&q=85" />
+    <img width="700" height="330" src="https://i.pinimg.com/736x/1e/50/fd/1e50fda33b9ae07d20f5f6df26b7fddf.jpg"/>
   </div>
   <h1 align="left">Hey 👋 What's up?</h1>
 
