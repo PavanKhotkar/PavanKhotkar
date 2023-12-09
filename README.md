@@ -41,6 +41,7 @@
 #########################
 
 <div align="center">
+ # 📊 GitHub Stats:
   ![](https://github-readme-stats.vercel.app/api?username=forzenfly&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=forzenfly&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
