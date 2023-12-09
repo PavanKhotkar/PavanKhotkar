@@ -1,4 +1,5 @@
-<div align="center">
+<body background-color="black">
+  <div align="center">
   <img width="1000"height="430" src="https://www.chalmers.se/_next/image/?url=https%3A%2F%2Fcms.www.chalmers.se%2FMedia%2Fmb3hi4kn%2Fcoding-7-1920.jpg%3Fwidth%3D1920%26height%3D1080%26rnd%3D133293116108230000%26quality%3D60%26format%3Dwebp&w=1920&q=85"  />
 </div>
 <h1 align="left">Hey 👋 What's up?</h1>
@@ -115,3 +116,4 @@
 </div>
 
 ###
+</body>
