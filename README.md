@@ -2,7 +2,7 @@
   <div align="center">
 <div style="background-color: black; color: white; padding: 20px;">
   <div align="center">
-    <img width="1000" height="330" src="https://i.pinimg.com/736x/1e/50/fd/1e50fda33b9ae07d20f5f6df26b7fddf.jpg"/>
+    <img width="1000" height="430" src="https://i.pinimg.com/736x/1e/50/fd/1e50fda33b9ae07d20f5f6df26b7fddf.jpg"/>
   </div>
   <h1 align="left">Hey 👋 What's up?</h1>
 
