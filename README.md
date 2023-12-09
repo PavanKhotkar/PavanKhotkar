@@ -61,7 +61,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
     </a> <a href="https://www.linux.org/" target="_blank"rel="noreferrer"> 
-        <img src="https://www.linux.org/images/logo.png" alt="linux" width="80" height="40"/>
+        <img src="https://www.linux.org/images/logo.png" alt="linux" width="150" height="40"/>
           </a> <a href="https://unity.com/"target="_blank"rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
