@@ -48,10 +48,10 @@
  
 </div>
 
-<h3 align="right">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
-<p align="right">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"width="40" height="40"/>
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"width="40" height="40"/><p>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/><br>
 
@@ -70,6 +70,6 @@
   <img src="https://www.linux.org/images/logo.png" width="80" height="40"/><br><br>
 
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/>
-</p>
+
 
 
