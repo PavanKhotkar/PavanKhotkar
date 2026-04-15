@@ -53,11 +53,11 @@
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"width="40" height="40"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/><br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/><br>
 
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/><br><br>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/><br>
 
-  <img src="https://img.icons8.com/?size=96&id=22813&format=png" width="40" height="40"/><br><br>
+  <img src="https://img.icons8.com/?size=96&id=22813&format=png" width="40" height="40"/><br>
 
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/><br><br>
 
