@@ -51,7 +51,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"width="40" height="40"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/><br><br>
 
